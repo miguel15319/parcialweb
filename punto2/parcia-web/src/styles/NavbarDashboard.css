@@ -1,0 +1,23 @@
+
+.custom-navbar {
+  background-color:rgb(255, 255, 255);
+}
+
+.logo {
+  height: 95px; 
+  margin-right: 30px; 
+}
+
+.custom-nav {
+  align-items: center;
+}
+
+.icon {
+  height: 30px;
+  margin-left: 100px; 
+}
+
+.nav-link {
+  color:rgb(255, 255, 255);
+
+}
